@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "901961483953",
+    "project_id": "enyusupplify",
+    "storage_bucket": "enyusupplify.firebasestorage.app",
+    "database_url": "https://enyusupplify-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901961483953:android:f2f03cd457eeeed7258490",
+        "android_client_info": {
+          "package_name": "com.example.supplifyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJShDsc32V7Wy8F6kD4ITFkuHu6DOy7sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navyblue">#000080</color>
+    <color name="Gold">#FFD700</color>
+    <color name="GitnangGrey">#494848</color>
+    <color name="DarkGrey">#2F2F2F</color>
+    <color name="LightGray">#E2E1E1</color>
+    <color name="Lightishblue">#355A82</color>
+    <color name="Lightishgold">#D9C67C</color>
+    <color name="DarkerNavyBlue">#00005E</color>
+</resources>
