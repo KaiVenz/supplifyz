@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import com.example.supplifyz.LoginActivity
 import com.example.supplifyz.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
@@ -18,7 +19,7 @@ class SplashActivity : AppCompatActivity() {
         setContentView(bindind.root)
 
         bindind.TVStartBTN.setOnClickListener {
-            startActivity(Intent(this, MainActivity::class.java))
+            startActivity(Intent(this, LoginActivity::class.java))
         }
     }
 }
